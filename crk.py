@@ -1,5 +1,5 @@
-#ENCODED BY : MUMIT ISLAM HIMU
-#ENCRYPTION : Py3 MARSHAL+ZLIB+B64
+#ENCODED BY : SUBIMARI
+#ENCRYPTION : Py3 MARSHAL+ZLIB+B64+ALI+FOTO+C++
 #GITHUB : https://github.com/MUMIT-404-CYBER
 #----------------------------------------------
 import marshal, base64, zlib
